@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -19,5 +18,3 @@
       遠距教學老師準備的很用心充分，有時候沒辦法上課，也可以透過網路資源一步一步地跟上來，<span style="color:red">只要在家就可以學習到這樣的知識</span>，也不用到學校因為疫情而害怕。<br><br>
       <div id="讚">
       使用自己的電腦架設環境又比較方便，一個字概括，<span>讚</span>！
-</body>
-</html>
